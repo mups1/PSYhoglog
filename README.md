@@ -37,3 +37,41 @@ Planned Features
 
 ## Screenshots
 
+
+![Main Page](screenshots/Main1.png)
+
+## Login
+
+![Login](screenshots/Login.png)
+
+## Registration
+
+![Registration](screenshots/Registration.png)
+
+## Orders List
+
+Users can create support requests and accept requests from other users.
+
+![Orders](screenshots/OrderList.png)
+
+## Internal Chat
+
+Built-in messaging system for communication between users.
+
+![Chat](screenshots/Chat.png)
+
+## User Profile
+
+Profile page with statistics, ratings and comments.
+
+![Profile](screenshots/Profile.png)
+
+## Order History
+
+History of completed and created requests.
+
+![Order History](screenshots/OrderHistory.png)
+
+## Additional Screenshots
+
+![Main Page 2](screenshots/Main2.png)
